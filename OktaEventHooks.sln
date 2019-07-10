@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegisterEventHook", "RegisterEventHook\RegisterEventHook.csproj", "{798B2FA6-DAF3-4CE7-A168-832D214E7BFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AADSampleAPI", "AADSampleAPI\AADSampleAPI.csproj", "{5CB19E08-7485-4E19-A0B0-FF3C78AEFFCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{798B2FA6-DAF3-4CE7-A168-832D214E7BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798B2FA6-DAF3-4CE7-A168-832D214E7BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798B2FA6-DAF3-4CE7-A168-832D214E7BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798B2FA6-DAF3-4CE7-A168-832D214E7BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB19E08-7485-4E19-A0B0-FF3C78AEFFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB19E08-7485-4E19-A0B0-FF3C78AEFFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB19E08-7485-4E19-A0B0-FF3C78AEFFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB19E08-7485-4E19-A0B0-FF3C78AEFFCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBCBDB4F-5289-46B4-9570-B4124BFA1F64}
+	EndGlobalSection
+EndGlobal
